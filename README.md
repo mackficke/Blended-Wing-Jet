@@ -1,3 +1,3 @@
 **Blended Wing Aircraft**
 
-https://drive.google.com/file/d/1WCOE4QD273EMCEDABI4dK5DL1OyAhYF0/view?usp=drive_link
+Both the COMSOL and the SolidWorks files can be found [here](https://drive.google.com/drive/folders/10n4E-0H0UX_FyLMo0IbjhYksWBsQ1gsk?usp=drive_link), as it is too big to upload to Github.
